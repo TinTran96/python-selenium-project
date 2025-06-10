@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="16.017" timestamp="2025-06-09T12:43:34.933440+07:00" hostname="DESKTOP-8DVD4DT"><testcase classname="tests.test_main.TestLogin" name="test_login_and_bucket_count" time="15.847" /></testsuite></testsuites>
