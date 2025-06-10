@@ -12,3 +12,6 @@ __pycache__/
 
 # Ignore dotenv environment files
 .env
+
+# Ignore JetBrains IDE settings
+.idea/

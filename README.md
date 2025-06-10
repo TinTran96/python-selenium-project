@@ -13,7 +13,6 @@ selenium-testing-project
 ├── pageobjects
 │   ├── login_page.py
 │   ├── dashboard_page.py
-│   └── base_page.py
 ├── requirements.txt
 └── README.md
 ```
